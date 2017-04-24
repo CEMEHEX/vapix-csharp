@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Axis", "Axis\Axis.csproj", "{676525A4-D941-4322-8083-6D2D44F6ACB5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "Tester\Tester.csproj", "{E4A0D63B-5FED-4837-92B3-585C08A97D1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanoramaBuilder", "PanoramaBuilder\PanoramaBuilder.csproj", "{5753D589-4EA2-4BF6-8BE9-1FD57D85A662}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{E4A0D63B-5FED-4837-92B3-585C08A97D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4A0D63B-5FED-4837-92B3-585C08A97D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4A0D63B-5FED-4837-92B3-585C08A97D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5753D589-4EA2-4BF6-8BE9-1FD57D85A662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5753D589-4EA2-4BF6-8BE9-1FD57D85A662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5753D589-4EA2-4BF6-8BE9-1FD57D85A662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5753D589-4EA2-4BF6-8BE9-1FD57D85A662}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
